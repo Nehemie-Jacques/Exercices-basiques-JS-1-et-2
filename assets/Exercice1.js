@@ -1,7 +1,7 @@
 // Exercices 7
 let nom = prompt("veuillez entrer votre nom:");
-alert("bienvenu" + nom + "!")
-console.log("bienvenu" + nom + "!")
+alert("bienvenu " + nom + "!")
+console.log("bienvenu " + nom +  " !")
 
 // Exercice 6
 let participants = ["Junior", "Tony", "Ange", "Manuella"];

@@ -43,6 +43,14 @@ function findElement(tableau, element) {
 }
 console.log(findElement([10, 27, 59, 60], 3));
 
+// for(let i=0; i<tableau.lenght; i++) {
+//     if(element==tableau[i]) {
+//         return true ;
+//     }
+// } return false
+// const tableau = [50, 56, 12, 78];
+// console.log(findElement(tableau, element));
+
 // Exercice 3
 // Question 1
 function fibonacci(n) {
